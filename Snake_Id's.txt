@@ -1,0 +1,177 @@
+10- Female running
+12- Zombie running
+13- Switching tool
+14- Switching tool
+15- Put away tool
+16- Flip
+17- Cant put away tool
+18- Opening mailbox
+19- Mailbox open idle
+1A- In Inventory 
+1B- Perfect fruit infatuation
+1C- Victory dance
+1D- Walking downstairs to basement (Makes you invisible)
+1E- Walking downstairs from 2nd floor
+1F- Walking upstairs (Makes you float)
+20- Walking upstairs 
+21- Eating
+22- Eating perfect fruit
+23- Eating fortune cookie
+24- About to pick something up
+25- Pick up and pocket
+26- Pick up and show
+27- Pocket
+28- Pluck
+29- Pull out item and show
+2A- Pull out item and show
+2B- Pocket shown item
+2C- Start shake tree
+2D- Shaking tree
+2E- Knocking door
+2F- Creepy sliding 
+30- Open door and walk in
+31- Open door and walk in
+32- Open door and walk in
+33- Walk in in building
+34- Walking in
+35- Walking in tent
+36- Walking out tent
+37- Diving off cliff
+3E- Starting to fill hole
+3F- Filling hole
+40- Sparkler
+42- Pull popper
+43- Pull put umbrella
+44- Spin umbrella 
+47- Start to shovel
+48- Start to shovel
+49- Digging hole
+4A- Hitting person with shovel
+4B- Can't dig a hole
+4C- Digging up sapling
+4D- Digging up item
+4E- Pocket item
+4F- Filling in hole with shovel
+50- Fake dig
+55- Pulling sling shot
+56- Pulling sling shot hold
+57- Releasing sling shot
+58- Releasing sling shot hold
+5D- ??
+5E- Holding axe?
+5F- Swinging axe?
+60- Hititng person with axe
+61- Missing with axe
+62- Breaking axe
+63- Sad after breaking axe
+64- Watering plants
+65- Watering plants with golden can
+66- Net swing
+67- Taking out caught bug
+68- Excited dance (Completed Encyclopedia?)
+69- Pocket caught bug
+6A- Holding net idle
+6B- Sneaking with net
+83- Holding up megaphone
+84- Can't use megaphone
+85- Talking through megaphone
+87- Casting fishing line
+88- Can't cast fishing line
+89- Fishing line in water idle
+8A- Got a bite
+8B- Failing to catch fish and falling (Unused)
+8C- Pull fishing line out of water
+8D- Pull line out of water with a catch
+8E- Showing caught fish
+8F- Pocket fish
+90- Excited dance, completed fish encyclopedia
+9F- Holding furniture
+A1- Pull furniture backwards
+A2- Grab furniture?
+A3- Pull furniture (Makes camera and movement weird)
+A4- Turn furniture
+A5- Turn furniture 
+A6- Grab furniture off shelf
+A7- Grab furniture off shelf
+A8- Grab furniture off wall
+A9- Grab furniture off high shelf
+AA- Grab furniture off wall 
+AB- Sitting in chair
+AC-AD Sit in chair (Makes your movement weird)
+AE- Sit I'm chair
+AF- Get out chair
+B0-B1 Moving in chair. Makes movement weird
+B2- Can't move in chair
+B4- Holding furniture
+B5- Opening cabinet
+B6- Looking in cabinet
+B9/BA- Laying in bed
+BB- Sleeping idle
+BC/BD- About to turn in bed
+BE/BF- Turning in bed
+C0/C1 Bumping into someone in bed
+C2/C3- Getting out of bed
+C4- Can't go into water
+C5-CB Swimming in water
+CC- Jumping off cliff into water
+CD- Dive
+CE- Rising up out of water
+CF- Caught an underwater creature
+D0- Caught underwater creature idle
+D1- Pocket underwater creature
+D2-D4 Stung by jellyfish
+D5- Weird running in place
+D6- Fall into pitfall trap 
+D7- Struggling in pitfall
+D8- Fall into hole
+D9- Struggling in hole
+DA/DB- Jumping out hole
+DC/DD Fainting
+DE- Getting up
+DF- Getting attacked by bees
+E0- Trying to fend off bees
+E1- Scared off the bees
+E2- Are the bees gone?
+E3- Showing off the bee sting
+E4- Bit by mosquito
+E5- Rubbing mosquito bite
+E6-E8 Trip
+E9-EC Getting up
+F1- Missing with hammer
+F2- Hitting with hammer
+FC/FD Sad mouth open
+19E- Angry villager standing in place
+19F- Angry villager walk
+1A0- Happy villager standing in place 
+1A1- Happy villager skip
+1A2- Sad villager standing in place
+1A3- Sad villager walk
+1A4- Villager thinking in place
+1A5- Vilalger walking and thinking 
+1A6- Waving
+1A7- Bowing 
+1A8- ?? 
+1A9- Excited Villager
+1AA- Request Villager 
+1AB- Request Villager
+1AC- ?  
+1AD- Getting hit by net
+1AE- Getting hit by net and looking around
+1AF- Hiding villager 
+1B0- Peeking out
+1B1- Peeking out 
+1D6- Zipper T Dance
+1D7- Flip
+1D8- ??
+1DB- Weird pave dance
+1DC- Faster pave dance
+1DD- Pave pose
+1DE- Reaching towards the skies
+1DF- Floating on back
+1E0- Rissing out the lamp
+1E1- Getting sucked into lamp. (Canceling at the right moment can keep you small)
+1E3- Floating on back and eating
+1EC- Kap'n on boat
+1ED- Kap'n starting the boat
+1EE- Kap'n moving the boat
+1EF- Asleep I'm a weird position (Makes movement weird)
